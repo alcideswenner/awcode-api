@@ -1,0 +1,4 @@
+server:
+  servlet:
+    context-path: /awcode-api
+  port: 8080
